@@ -1,4 +1,4 @@
-# flashcard
+# 11th Parallel
 
 Allie Huynh - zelaynia
 Maya Lei - leimaya
