@@ -1,8 +1,11 @@
 # 11th Parallel
 
 Allie Huynh - zelaynia
+
 Maya Lei - leimaya
+
 Antony Lei - toof121
+
 Mason Law - justmaso
 
 User Stories:
@@ -18,5 +21,5 @@ User Stories:
 [Mason’s story] John has already created a flashcard set, but wants to study them in a random order. He shuffles the set through the program and studies them in a random order for better long-term retention.
 
 Entities:
-- Flashcard: Need to manipulate information on flashcard
-- 
+- Flashcard: Need to manipulate information on flashcard. 
+- User: User inputs flashcard information to be manipulate. User also has flashcard sets.
